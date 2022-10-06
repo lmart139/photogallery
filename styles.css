@@ -1,0 +1,151 @@
+header  h1 {
+    background-color: black;
+    font-size: 40px;
+    color: #007D7B;
+    padding-right: 998px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    display: inline;
+}
+
+a:hover {
+    color: #007D7B;
+}
+
+main {
+    background-color: white;
+}
+
+
+body {
+    background-color: black;
+    margin: 0 auto;
+    width: 1310px;
+    height: 850px;
+    padding: 100px 50px;
+    
+}
+
+ nav {
+    background-color: black;
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+ }
+
+ nav li {
+    display: inline;
+    
+ }
+
+nav li a {
+    text-decoration: none;
+    color: white;
+    display: inline;
+}
+
+form {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    background-color: black;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.tk {
+    padding-top: 20px;
+    float: left;
+    width: 845px;
+    height: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+}
+
+figure{
+    display: inline-block;
+    width: 420px;
+    height: 281px;
+}
+
+figcaption {
+       color: black;
+        padding: 2px;
+        text-align: left;
+        font-size: 16px;
+      }
+
+#bout {
+    text-align: right;
+    display: inline;
+    padding-left: 380px;
+    
+}
+
+#H {
+    text-align: right;
+}
+
+#HITK {
+    text-align: right;
+}
+#G {
+    text-align: left;
+}
+
+#P1 {
+    text-align: left;
+}
+
+legend {
+  display: none;
+}
+
+label {
+    display: block;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #007D7B;
+    width: 600px;
+}
+
+button {
+    background-color: #007D7B;
+    text-align: center;
+    color: white;
+    width: 600px;
+    border-radius: 10px 5px 10px 5px;
+}
+
+#B {
+    display: flex;
+    justify-content: center;
+}
+[href="#top"] {
+    background-color: #007D7B;
+    position:fixed;
+    bottom:0px;
+    right:0px;
+}
+
+#top:focus {
+    background-color: #007D7B;
+    
+}
+
